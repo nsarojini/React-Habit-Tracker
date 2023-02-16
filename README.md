@@ -1,3 +1,18 @@
+React-Habit-Tracker
+
+Habit tracker application used to track our daily habits or tasks and gives us our weekly analysis.
+
+
+<img width="1436" alt="list of habits" src="https://user-images.githubusercontent.com/115941802/219392802-619dfdbd-8239-4d13-bc53-8129166f0206.png">
+
+
+<img width="1439" alt="Add new habit" src="https://user-images.githubusercontent.com/115941802/219392876-90acb04d-bdc8-4ebb-8fb3-2038695cf4bc.png">
+
+
+
+<img width="1440" alt="weekly tracker" src="https://user-images.githubusercontent.com/115941802/219392904-ec8aba97-00d7-4a7c-82da-d33d32019b8b.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
